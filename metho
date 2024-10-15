@@ -1,0 +1,20 @@
+0 - Create a execution version
+1 - Get a list of domains
+2 - For each domain
+    3 - Get the A records
+    4 - Traceroute each A record
+    5 - Store all hops in a database (related with the execution version)
+
+
+
+
+Furter steps
+    0 - For each hop
+        1 - Get the ip address of the hop
+        2 - Map the AS for the domain
+        3 - Map the subnet for the domain
+
+
+
+For traceroute - 
+     - Use Dublin Traceroute https://dublin-traceroute.net/

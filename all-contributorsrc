@@ -1,0 +1,34 @@
+{
+projectName: "ico-backend",
+projectOwner: "ComputerNetworks-UFRGS",
+repoType: "github",
+repoHost: "https://github.com",
+files: [
+"CONTRIBUTORS.md"
+],
+imageSize: 100,
+commit: false,
+contributors: [
+{
+login: "asjacobs92",
+name: "Arthur Jacobs",
+avatar_url: "https://avatars0.githubusercontent.com/u/6069655?v=4",
+profile: "https://asjacobs92.github.io/",
+contributions: [
+"code",
+"review",
+]
+},
+{
+login: "zembruzkill",
+name: "Luciano Zembruzki",
+avatar_url: "https://avatars1.githubusercontent.com/u/40046862?s=400&v=4",
+profile: "https://www.linkedin.com/in/luciano-zembruzki-406471172/",
+contributions: [
+"projectManagement",
+"code",
+"infra"
+]
+},
+]
+}
